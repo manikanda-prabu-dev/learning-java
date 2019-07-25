@@ -4,8 +4,8 @@ public class ConstructorMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Dog obj = new Dog("mani");
-		Dog obj1 = new Dog("developer");
+		Constructor obj = new Constructor("mani");
+		Constructor obj1 = new Constructor("developer");
 		obj.output();
 		obj1.output();
 	}

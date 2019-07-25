@@ -170,5 +170,6 @@ public static void elseIf(){
 public static void conditionalOperator() {
 	int age = 61;
 	System.out.println(age>60?"you are senior citizen":"you are not an senior citizen");
+	System.out.println(age>60?"you are senior citizen":"you are not an senior citizen");
 }
 }

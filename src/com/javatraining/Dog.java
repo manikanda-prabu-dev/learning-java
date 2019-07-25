@@ -20,7 +20,5 @@ public String getMyName() {
 public void output() {
 	System.out.println("My name getting through instance methods:"+" "+ getMyName());
 }
-public Dog(String name) {
-	myName = name;
-}
+
 }
